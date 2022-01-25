@@ -1,0 +1,11 @@
+POST http://127.0.0.1:8887/check/pavel/echo?lang=en
+Content-Type: application/json
+
+{"volume":"whisper", "text":"Hello"}
+
+###
+
+POST http://127.0.0.1:8887/check/pavel/echo?lang=en
+Content-Type: application/json
+
+{"volume":"cry"}

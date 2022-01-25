@@ -1,0 +1,6 @@
+node_modules
+dist
+coverage
+src/application/config/env.ts
+.idea
+.env
